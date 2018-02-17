@@ -1,2 +1,3 @@
 # Vigenere_C-
-Vigenere chiper software using visual studio C#
+Vigenere chiper software using C#
+This software build using Visual Studio 2013
